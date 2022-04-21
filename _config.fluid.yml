@@ -803,7 +803,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: /img/index.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -815,7 +815,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/index.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -845,7 +845,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/index.jpeg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -863,7 +863,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/index.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
