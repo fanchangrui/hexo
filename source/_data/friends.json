@@ -1,19 +1,19 @@
 [{
-  "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
-  "name": "码酱",
-  "introduction": "我不是大佬，只是在追寻大佬的脚步",
-  "url": "http://luokangyuan.com/",
+  "avatar": "/medias/featureimages/0.jpg",
+  "name": "尤雨溪",
+  "introduction": "非科班出生的尤大",
+  "url": "https://www.zhihu.com/people/evanyou",
   "title": "前去学习"
 }, {
-  "avatar": "http://image.luokangyuan.com/4027734.jpeg",
-  "name": "闪烁之狐",
-  "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
-  "url": "https://blinkfox.github.io/",
+  "avatar": "/medias/featureimages/1.jpg",
+  "name": "阮一峰",
+  "introduction": "除了理性地书写各种庞杂的知识外，他的文章亦充满了人文关怀",
+  "url": "http://www.ruanyifeng.com/",
   "title": "前去学习"
 }, {
-  "avatar": "http://image.luokangyuan.com/avatar.jpg",
-  "name": "ja_rome",
+  "avatar": "/medias/featureimages/2.jpg",
+  "name": "廖雪峰",
   "introduction": "平凡的脚步也可以走出伟大的行程",
-  "url": "https://me.csdn.net/jlh912008548",
+  "url": "https://www.liaoxuefeng.com/",
   "title": "前去学习"
 }]

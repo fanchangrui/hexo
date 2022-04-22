@@ -86,7 +86,7 @@ music:
   loop: 'all'       # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'random'   # 音频循环顺序, 可选值: 'list', 'random'
   preload: 'auto'   # 预加载，可选值: 'none', 'metadata', 'auto'
-  volume: 0.7       # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
+  volume: 0.3       # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: true  # 列表默认折叠
   hideLrc: true     # 隐藏歌词
 
@@ -193,7 +193,7 @@ postInfo:
   wordCount: true # 文章字数统计
   totalCount: true # 站点总文章字数
   min2read: true # 文章阅读时长
-  readCount: true # 文章阅读次数
+  readCount: false # 文章阅读次数
 
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
