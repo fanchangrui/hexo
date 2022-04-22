@@ -1,7 +1,10 @@
 ---
-title: 使用shadowsocks搭建一个免费的翻墙服务
-date: 2022-04-22 11:06:04
-tags:
+title: 使用shadowsocks搭建一个免费的翻墙服务  
+date: 2022-04-22 11:06:04  
+cover: true  
+tags: shadwosocks    
+category: 网络  
+top: true
 ---
 
 ## 一、vpn和代理的区别

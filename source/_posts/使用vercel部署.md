@@ -1,7 +1,9 @@
 ---
-title: 使用vercel部署
-date: 2022-04-21 11:15:33
-tags:
+title: 使用vercel部署  
+date: 2022-04-21 11:15:33  
+cover: true  
+tags: vercel  
+category: 网站
 ---
 
 ## 一、介绍一下vercel
