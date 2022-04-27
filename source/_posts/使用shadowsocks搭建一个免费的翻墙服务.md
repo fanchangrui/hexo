@@ -2,7 +2,7 @@
 title: 使用shadowsocks搭建一个免费的翻墙服务  
 date: 2022-04-22 11:06:04  
 cover: true   
-category: 网络  
+category: 网络   
 top: true  
 tags: 
   - shadwosocks
