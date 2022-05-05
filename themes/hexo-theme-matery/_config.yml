@@ -216,17 +216,17 @@ myProjects:
     school-secondhand:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: http://github.com/school-secondhand
+      url: http://github.com/fanchangrui/school-secondhand
       desc: 基于云开发的微信校园二手交易小程序.
     admin-system:
         icon: fas fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://github.com/admin-system
+        url: https://github.com/fanchangrui/admin-system
         desc: 用vue3+element-plus+node.js搭建的前后端分离后台管理项目
     hexo:
         icon: fas fa-file-alt
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/hexo
+        url: https://github.com/fanchangrui/hexo
         desc: hexo的搭建和vercel自动化部署
 
 # config my skills informations in about page.
