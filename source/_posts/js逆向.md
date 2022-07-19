@@ -15,13 +15,13 @@ tags:
 
 ### 1逆向环境
 - Node.js14.0以上版本  
--官网下载地址：https://nodejs.org/en/download/  
--教程：https://www.runoob.com/nodejs/nodejs-install-setup.html
+_官网下载地址：https://nodejs.org/en/download/  
+_教程：https://www.runoob.com/nodejs/nodejs-install-setup.html
 - Chrome浏览器 / Firefox浏览器  
--Chrome官网：https://www.google.cn/intl/zh-CN/chrome/  
--Firefox官网：http://www.firefox.com.cn/  
+_Chrome官网：https://www.google.cn/intl/zh-CN/chrome/  
+_Firefox官网：http://www.firefox.com.cn/  
 - VScode  
--官网下载地址：https://code.visualstudio.com
+_官网下载地址：https://code.visualstudio.com
 
 ### 谷歌浏览器调试
 - 1 右键页面 -> 检查 ｜ 按F12触发
