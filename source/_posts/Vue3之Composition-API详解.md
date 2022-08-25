@@ -2,9 +2,9 @@
 title: Vue3之Composition API详解  
 date: 2022-05-05 10:22:55  
 cover: true  
-categories: vue3  
+categories: Vue3  
 tags:
-  - vue3
+  - Vue3
   - Composition API
 ---
 
