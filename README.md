@@ -2,7 +2,7 @@
 
 ## 博客简介
 
-本项目是使用vercel自动部署发布的Hexo博客  最近好像被墙了要开代理访问
+本项目是使用vercel自动部署发布的Hexo博客(最近好像被墙了要开代理访问)
 地址：https://hexo-fanchangrui.vercel.app
 
 ## 直接点击访问
