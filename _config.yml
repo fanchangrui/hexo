@@ -77,9 +77,9 @@ theme: hexo-theme-matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: https://github.com/fanchangrui/fcr.github.io.git
-  type: https
-  barnch: main
+deploy: 
+  type: 
+  
 
 search:
   path: search.xml
