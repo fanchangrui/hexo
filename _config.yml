@@ -77,8 +77,8 @@ theme: hexo-theme-matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: https://github.com/blinkfox/blinkfox.github.io.git
-  type: git
+deploy: 
+  type: 
   
 
 search:
