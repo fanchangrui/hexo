@@ -3,7 +3,8 @@
 ## 博客简介
 
 本项目是使用vercel自动部署发布的Hexo博客  
-地址：https://hexo-fanchangrui.vercel.app(最近好像被墙了要开代理访问)
+vercel地址：https://hexo-fanchangrui.vercel.app(最近好像被墙了要开代理访问)
+github pages地址：https://fanchangrui.github.io
 
 ## 直接点击访问
 
