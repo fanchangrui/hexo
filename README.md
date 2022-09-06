@@ -8,7 +8,7 @@ github pages地址：https://fanchangrui.github.io
 
 ## 直接点击访问
 
-[![Deploy with Vercel](https://vercel.com/button)](https://hexo-fanchangrui.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://fanchangrui.github.io)
 
 ## vercer介绍
 
