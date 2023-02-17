@@ -46,7 +46,7 @@ temperature：回答问题的程度，越接近0越标准，接近于1越开放
 代码类型使用codex模型来查询，这里我们输入问题是用js写一个验证手机号的正则表达式
 ```
 import openai
-openai.api_key = "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"
+openai.api_key = "你的key"
 prompt ="Write a regular expression in javascript that validates the phone number"
 response = openai.Completion.create(
   model="code-davinci-002",
@@ -65,7 +65,7 @@ print(response)
 图片类型我们使用dall-e模型来生成，我输入的内容是一只猫和一条狗互相玩耍的照片，输入限制条件越多越容易得到想要的结果。
 ```
 import openai
-openai.api_key = "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"
+openai.api_key = "你的key"
 response = openai.Image.create(
   prompt="A cat and a dog play with each other",
   n=1,
